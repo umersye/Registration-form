@@ -1,0 +1,28 @@
+
+td,th,table{
+    border:2px solid;
+    border-collapse:collapse;
+    
+  }
+
+#a1{
+  background: #B6D1D1;
+  padding: 10px;
+  text-align:center;
+}
+input{
+  border:none;
+}
+body{
+  background: skyblue;
+  padding:10px;
+  border-left: 20px solid white;
+  
+}
+#a2{
+   background : white;
+  padding: 10px;
+}
+#c1{
+  background:white;
+}
